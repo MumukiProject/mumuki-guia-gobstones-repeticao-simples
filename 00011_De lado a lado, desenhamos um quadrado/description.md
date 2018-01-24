@@ -1,0 +1,25 @@
+Usando sem definir `LinhaPreta4Leste`, escreva um procedimento `QuadradoPreto4` que desenhe um quadrado de 4x4, deixando a garra no extremo canto superior direito do quadrado.
+
+Leve em conta o que  falamos no  exercício anterior sobre o **caso borda**.
+
+<gs-board>
+  GBB/1.0
+    size 4 4
+     cell 0 0 Azul 0 Negro 1 Rojo 0 Verde 0
+     cell 0 1 Azul 0 Negro 1 Rojo 0 Verde 0
+     cell 0 2 Azul 0 Negro 1 Rojo 0 Verde 0
+     cell 0 3 Azul 0 Negro 1 Rojo 0 Verde 0
+     cell 1 0 Azul 0 Negro 1 Rojo 0 Verde 0
+     cell 1 1 Azul 0 Negro 1 Rojo 0 Verde 0
+     cell 1 2 Azul 0 Negro 1 Rojo 0 Verde 0
+     cell 1 3 Azul 0 Negro 1 Rojo 0 Verde 0
+     cell 2 0 Azul 0 Negro 1 Rojo 0 Verde 0
+     cell 2 1 Azul 0 Negro 1 Rojo 0 Verde 0
+     cell 2 2 Azul 0 Negro 1 Rojo 0 Verde 0
+     cell 2 3 Azul 0 Negro 1 Rojo 0 Verde 0
+     cell 3 0 Azul 0 Negro 1 Rojo 0 Verde 0
+     cell 3 1 Azul 0 Negro 1 Rojo 0 Verde 0
+     cell 3 2 Azul 0 Negro 1 Rojo 0 Verde 0
+     cell 3 3 Azul 0 Negro 1 Rojo 0 Verde 0
+     head 3 3
+</gs-board>
