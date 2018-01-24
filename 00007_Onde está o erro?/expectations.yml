@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: LinhaVermelha4
+  inspection: UsesRepeat
