@@ -1,0 +1,1 @@
+Como você já experimentou, podem ser colocados comandos  tanto antes como depois do repeat. Concluindo... é apenas um comando mais!
