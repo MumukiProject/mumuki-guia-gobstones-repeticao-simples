@@ -1,0 +1,7 @@
+procedure LinhaPreta4Leste() {
+  repeat(3) {
+    Colocar(Preto)
+    Mover(Leste)
+  }
+  Colocar(Preto)
+}

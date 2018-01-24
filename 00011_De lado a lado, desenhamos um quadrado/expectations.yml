@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: QuadradoPreto4
+  inspection: UsesRepeat
+- binding: QuadradoPreto4
+  inspection: Uses:LinhaPreta4Leste
