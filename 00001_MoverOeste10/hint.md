@@ -1,0 +1,1 @@
+Ainda não demos nenhuma ferramenta nova, então você terá que resolver com aquilo que você já aprendeu até agora.  Sim, não é muito apresentável a solução que você pode fazer. :pensive:
