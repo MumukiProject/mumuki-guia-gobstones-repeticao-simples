@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: LinhaPreta4Leste
+  inspection: UsesRepeat
