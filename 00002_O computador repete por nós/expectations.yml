@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: MoverOeste10
+  inspection: UsesRepeat
