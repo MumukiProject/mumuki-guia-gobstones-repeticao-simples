@@ -6,7 +6,7 @@ O procedimento `LinhaPreta4Leste` que te apresentamos desenha uma linha preta em
 procedure LinhaPreta4Leste() {
   repeat(4) {
     Colocar(Preto)
-    Mover(Este)
+    Mover(Leste)
   }
 }
 ```
