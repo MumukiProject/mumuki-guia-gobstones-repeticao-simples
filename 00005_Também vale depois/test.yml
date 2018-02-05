@@ -1,6 +1,6 @@
 check_head_position: true
 
-subject: PonerAzulLejos
+subject: ColocarAzulLonge
 
 examples:
  - initial_board: |
