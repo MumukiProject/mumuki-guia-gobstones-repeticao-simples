@@ -47,9 +47,9 @@ Enquanto corrigíamos os exercícios de um colega seu, nos encontramos com uma s
 <table class= "table" style="width:100%">
   <thead>
   <tr>
-    <th style="text-align: center">Inicial</th>
+    <th style="text-align: center">Tabuleiro inicial</th>
     <th style="text-align: center"></th> 
-    <th style="text-align: center">Final</th>
+    <th style="text-align: center">O que esperávamos</th>
   </tr>
   </thead>
   <tbody>
