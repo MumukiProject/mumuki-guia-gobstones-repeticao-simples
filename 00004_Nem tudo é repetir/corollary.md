@@ -20,5 +20,5 @@ procedure Colocar3AoNordeste() {
     cell 1 1 Negro 1
     cell 2 1 Negro 1
     cell 3 1 Negro 1
-    head 1 1
+    head 3 1
 </gs-board>
