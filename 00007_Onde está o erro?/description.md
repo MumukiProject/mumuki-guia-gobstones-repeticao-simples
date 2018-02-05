@@ -75,7 +75,11 @@ Enquanto corrigíamos os exercícios de um colega seu, nos encontramos com uma s
       <gs-board>
         GBB/1.0
         size 2 5
-        head 0 1
+        cell 0 0 Rojo 1
+        cell 0 3 Rojo 1
+        cell 0 2 Rojo 1
+        cell 0 1 Rojo 1
+        head 0 4
       </gs-board>
     </td>
   </tr>
