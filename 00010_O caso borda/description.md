@@ -16,4 +16,4 @@ Se agora queremos fazer com que a garra  fique na última célula da linha, temo
 * **Mover a garra em direção ao Oeste depois de desenhar a linha.** Um truque meio sem graça, porque para funcionar necessita que exista pelo menos 5 espaços em direção ao Leste partindo da posição inicial, quando nossa linha ocupará apenas 4.
 * **Tratar o último caso de maneira especial.** Esta opção é mais interessante e mais fiel ao que queremos fazer: a última vez não queremos que a garra se mova, basta simplesmente que  coloque a pedra preta.
 
-> Levando em conta a última opção, escreva uma nova versão de LinhaPreta4Leste que deixe a garra na última célula da linha.
+> Levando em conta a última opção, escreva uma nova versão de `LinhaPreta4Leste` que deixe a garra na última célula da linha.
