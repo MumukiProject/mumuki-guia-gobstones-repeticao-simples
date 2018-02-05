@@ -57,20 +57,20 @@ Enquanto corrigíamos os exercícios de um colega seu, nos encontramos com uma s
     <td style="text-align: center">  
       <gs-board>
         GBB/1.0
-        size 3 3
+        size 2 5
         head 0 0
       </gs-board>
     </td>
     <td style="text-align: center">
       <gs-board>
         GBB/1.0
-        size 3 3
+        size 2 5
         head 0 0
       </gs-board></td> 
     <td style="text-align: center">
       <gs-board>
         GBB/1.0
-        size 3 3
+        size 2 5
         head 0 1
       </gs-board>
     </td>
