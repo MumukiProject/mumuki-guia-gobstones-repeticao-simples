@@ -1,4 +1,4 @@
-Enquanto corrigíamos os exercícios de um colega seu, nos encontramos com uma solução para LinhaVermelha4 que contém um erro, veja:
+Enquanto corrigíamos os exercícios de um colega seu, nos encontramos com uma solução para `LinhaVermelha4` que contém um erro, veja:
 
 <table class= "table" style="width:100%">
   <thead>
