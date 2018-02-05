@@ -48,7 +48,7 @@ Enquanto corrigíamos os exercícios de um colega seu, nos encontramos com uma s
   <thead>
   <tr>
     <th style="text-align: center">Tabuleiro inicial</th>
-    <th style="text-align: center"></th> 
+    <th style="text-align: center">O que faz</th> 
     <th style="text-align: center">O que esperávamos</th>
   </tr>
   </thead>
