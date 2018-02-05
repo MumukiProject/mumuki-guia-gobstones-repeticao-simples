@@ -3,7 +3,7 @@ check_head_position: true
 subject: DiagonalPesada4Azul
 
 examples:
- - title: 'Con el cabezal en el origen'
+ - title: 'Com a garra na origem'
    initial_board: |
      GBB/1.0
      size 5 5
@@ -17,7 +17,7 @@ examples:
      cell 3 3 Azul 21 
      head 4 4
      
- - title: 'Con el cabezal desplazado'
+ - title: 'Com a garra deslocada'
    initial_board: |
      GBB/1.0
      size 6 5
